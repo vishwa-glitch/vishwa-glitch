@@ -41,7 +41,7 @@ Helping users find their next favorite show or movie using a recommendation engi
 ## 🔗 Connect with Me
 
 - **Email**: [vishwa12550@gmail.com](mailto\:vishwa12550@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/vishwa555/](#)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/vishwa555/)
 - **GitHub**: [https://github.com/vishwa-glitch](#)
 
 ## ⚡ Fun Fact
