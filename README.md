@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-- **Senior Backend Developer** | Expertise in **Django**, **React**, **TypeScript**, and **scalable architecture design**.
+- **Backend Developer** | Expertise in **Django**, **React**, **TypeScript**, and **scalable architecture design**.
 - Exploring advanced backend topics like **asynchronous operations**, **microservices**, and **CI/CD pipelines**.
 - Passionate about crafting scalable, secure, and efficient web applications.
 
