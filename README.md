@@ -1,49 +1,69 @@
-# Hi, I'm Vishwa! 👋
+# 👋 Hi, I'm Vishwa Karikal
 
-## 🌟 About Me
+🎓 **Computer Science Engineering Student** (B.Tech, Appa University – Expected 2027)  
+💻 **Full-Stack & Mobile Developer** passionate about building scalable applications.  
+🌱 Currently in my 3rd year, exploring **DevOps & Cloud technologies**.  
 
-- **Backend Developer** | Expertise in **Django**, **React**, **TypeScript**, and **scalable architecture design**.
-- Exploring advanced backend topics like **asynchronous operations**, **microservices**, and **CI/CD pipelines**.
-- Passionate about crafting scalable, secure, and efficient web applications.
+---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+- Skilled in **React Native, Django REST, Express.js, AWS, Docker**.  
+- Experienced with **REST API development, CI/CD pipelines, and cloud deployments**.  
+- Love working on **full-stack apps** (frontend + backend + DevOps).  
+- Open to **freelance, internships, and open-source collaboration**.  
 
-- **Languages**: Python, JavaScript, TypeScript
-- **Frameworks**: Django, React
-- **Databases**: PostgreSQL, SQLite
-- **Tools & Platforms**: Docker, Google Cloud Platform (GCP), Celery, Git
+---
 
-## 🚀 Current Goals
+## 🛠️ Tech Stack
 
-- Contributing to **Zulip** open-source projects as part of **GSoC**.
-- Building a financial application with features like budgeting, receipt management, and reporting.
-- Enhancing my skills in **API development**, **GraphQL**, and **asynchronous task processing**.
+**Frontend:** React, React Native, Expo  
+**Backend:** Django REST Framework, Express.js, Node.js  
+**Databases:** PostgreSQL  
+**Cloud & DevOps:** AWS (EC2, S3, IAM, VPC, CloudWatch, Elastic Beanstalk), Docker, Git/GitHub, CI/CD pipelines  
 
-## 📚 Learning Roadmap
+---
 
-- **January 2025**: Mastering **Docker**, **CI/CD pipelines**, and security best practices.
-- **February 2025**: Completing a comprehensive backend project and preparing for interviews.
+## 📱 Projects
 
-## 📂 Projects
+### [ExpenseWise Manager](https://play.google.com/store/apps/details?id=com.vishwa567.fintech)
+A full-stack expense tracker mobile app.  
+- Built with **React Native (Expo)** & **Express.js backend**  
+- Hosted backend on **AWS**  
+- Currently in **Play Store closed testing**  
 
-### [Financial App](#)
+---
 
-A robust financial management application with:
+### [NextWatch Backend](https://github.com/vishwa-glitch/nextwatch-api)
+Django backend for a movie discovery app.  
+- Acts as a **proxy to TMDB API**  
+- Features: JWT auth, caching, watchlists, ratings, reviews, search  
 
-- Receipt tracking and validation
-- Budgeting and reporting
-- Multi-user support and automation
+---
 
-### [Watch Recommendation Website](#)
+### [To-Do List Application](https://github.com/vishwa-glitch/Todo)
+- REST APIs with authentication  
+- 100% test coverage & CI/CD integration  
+- Clean architecture with Dockerized setup  
 
-Helping users find their next favorite show or movie using a recommendation engine built with machine learning algorithms and a database of user preferences.
+---
 
-## 🔗 Connect with Me
+## 💼 Experience
 
-- **Email**: [vishwa12550@gmail.com](mailto\:vishwa12550@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/vishwa555/)
-- **GitHub**: [https://github.com/vishwa-glitch](#)
+**Freelance Full-Stack / Android Developer – [Upwork](https://www.upwork.com/freelancers/~013dc9d9aa14ffeacc?mp_source=share)**  
+*(Nov 2023 – Jul 2024)*  
+- Completed Android app development tasks for an international client.  
+- Maintained strong communication and timely delivery.  
+- ⭐ Client Feedback (5.0/5): *"An excellent freelancer, always in touch and completes tasks quickly. I hope I will contact him again!"*  
 
-## ⚡ Fun Fact
+---
 
-I enjoy solving challenging problems in backend development and exploring the latest trends in blockchain and cloud computing! I also love learning new stacks, like TypeScript and Docker, which I've recently explored and integrated into my projects.
+## 🏆 Achievements
+- Built and deployed **multiple production-ready applications**  
+- Active **open-source contributor** with public GitHub projects  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/vishwa555)  
+- [GitHub](https://github.com/vishwa-glitch)  
+- [Upwork](https://www.upwork.com/freelancers/~013dc9d9aa14ffeacc?mp_source=share)  
