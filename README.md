@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Vishwa Karikal
 
-🎓 **Computer Science Engineering Student** (B.Tech, Appa University – Expected 2027)  
-💻 **Full-Stack & Mobile Developer** passionate about building scalable applications.  
-🌱 Currently in my 3rd year.  
+🎓 **Computer Science Engineering Student**
+💻 **Full-Stack & Mobile Developer** passionate about building scalable applications.   
 
 ---
 
