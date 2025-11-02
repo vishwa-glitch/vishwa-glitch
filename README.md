@@ -9,7 +9,7 @@
 - Skilled in **React Native, Django REST, Express.js, AWS, Docker**.  
 - Experienced with **REST API development, CI/CD pipelines, and cloud deployments**.  
 - Love working on **full-stack apps** (frontend + backend + DevOps).  
-- Open to **freelance, internships, and open-source collaboration**.  
+- Open to **freelance and open-source collaboration**.  
 
 ---
 
