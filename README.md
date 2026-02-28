@@ -55,11 +55,19 @@ Django backend for a movie discovery app.
 
 ## 💼 Experience
 
+**Frontend Developer Intern – AlignTurtle (Remote)**  
+*(Dec 2025 – Feb 2026)*  
+- Developed mobile UI screens from Figma designs using **React Native**, ensuring pixel-perfect implementation across Android devices.  
+- Integrated **REST APIs** across multiple application screens in collaboration with backend developers and validated production endpoints.  
+- Led the **Google Play Store publishing process** end-to-end — generated signed APK/AAB builds, configured Play Console, and coordinated production release.
+
+---
+
 **Freelance Full-Stack / Android Developer – [Upwork](https://www.upwork.com/freelancers/~013dc9d9aa14ffeacc?mp_source=share)**  
 *(Nov 2023 – Jul 2024)*  
 - Completed Android app development tasks for an international client.  
-- Maintained strong client communication and timely delivery.  
-- ⭐ Client Feedback (5.0/5): *"An excellent freelancer, always in touch and completes tasks quickly. I hope I will contact him again!"*  
+- Maintained strong client communication and ensured timely delivery.  
+- ⭐ Client Feedback (5.0/5): *"An excellent freelancer, always in touch and completes tasks quickly. I hope I will contact him again!"*
 
 ---
 
