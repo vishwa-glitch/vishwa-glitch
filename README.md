@@ -35,7 +35,7 @@
 A full-stack expense tracker mobile app.  
 - Built with **React Native (Expo)** & **Express.js backend**  
 - Hosted backend on **AWS**  
-- Currently in **Play Store closed testing**  
+- Currently in **Play Store**  
 
 ---
 
